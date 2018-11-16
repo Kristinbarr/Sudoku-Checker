@@ -1,2 +1,2 @@
 # Sudoku-Checker
-Repo to edit my first version of a sudoku puzzle checker. 
+This sudoku checker will check an completed sudoku puzzle input. 
